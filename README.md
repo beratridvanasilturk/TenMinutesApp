@@ -1,11 +1,20 @@
 # TenMinutesApp
 
- -> İngilizce - Türkçe En Yaygın 5000 Kelimeyi Barındıran Listening & Writing Quiz Seçeneğiyle "Ten Minutes App" 15 Ekimde AppStore'da... 
+ İngilizce - Türkçe En Yaygın 5000 Kelimeyi Barındıran Listening & Writing Quiz Seçeneğiyle "Ten Minutes App" çok yakında AppStore'da... 
 
-![Group](https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/0fbe0701-8b47-4b48-abdc-b29080ad3e39)
+<img width="993" alt="Ekran Resmi 2023-10-16 01 36 43" src="https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/e935a0c7-964e-4484-8ab6-98e81f814bd0">
+
+İnternet erişimi gerektirmeden ücretsiz ve reklamsız kullanabileceğiniz Ten Minutes, İngilizcedeki en yaygın 5000 kelimeyi hem görsel hem işitsel pratikler sunarak günde 10 dakika alıştırmalar ile yılda 10 bin saat kuralını tamamlamanızda sizi motive ederek bir yıl içerisinde dilde uzman olmanızı sağlar.
+
+e-Mail for Support: tenminutesapp@gmail.com
 
 - App Video:
-  
 
+
+https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/2ad5b0e5-283a-4a0d-a947-509aaf478304
+
+
+
+- Oldest Version:
 https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/789c8edc-3452-4531-85a8-05395a0df4cf
 
