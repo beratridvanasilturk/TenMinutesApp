@@ -8,6 +8,8 @@
 
 e-Mail for Support: tenminutesapp@gmail.com
 
+AppStore App Link: https://apps.apple.com/tr/app/tenminutes-i-ngilizce-kelimeler/id6468368032?l=tr
+
 - App Video:
 
 
