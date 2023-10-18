@@ -6,7 +6,10 @@
 
 <img width="993" alt="Ekran Resmi 2023-10-16 01 36 43" src="https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/e935a0c7-964e-4484-8ab6-98e81f814bd0">
 
-İnternet erişimi gerektirmeden ücretsiz ve reklamsız kullanabileceğiniz Ten Minutes, İngilizcedeki en yaygın 5000 kelimeyi hem görsel hem işitsel pratikler sunarak günde 10 dakika alıştırmalar ile yılda 10 bin saat kuralını tamamlamanızda sizi motive ederek bir yıl içerisinde dilde uzman olmanızı sağlar.
+Ten Minutes sizi günlük işlerinizden alıkoymadan dil öğrenmek için her gün uygulamaya 10 dakikanızı ayırmayı önerir. On dakikalık Quiz pratiği sonrasında kullanıcıya günlük görevinin tamamlandığını bildirir. Günde ortalama 30 kelimeyi görsel, 15 kelimeyi ise kalıcı hafızanıza kaydedebilmenizde size yardımcı olur. 10 bin saat kuralını tamamlamanızda sizi motive ederek bir yıl içerisinde dilde uzman olmanızı sağlar!
+İngilizce / Türkçe en yaygın 5000 kelimeyi barındıran, listening, writing ve pronunciation alıştırmaları ile dilerseniz tüm kelimelerden, dilerseniz de favorilediğiniz kelimelere özel Quiz seçeneği sunan "Ten Minutes App", keyifli arayüzü ile dil öğrenmek isteyen herkese hitap eder.
+
+Ten Minutes'i bir kereye mahsus telefonuna indirdikten sonra dilediğin yerde internete bağlanma ihtiyacı duymadan, mobil veri kullanmadan sınırsız, ücretsiz ve reklamsız kullan. 
 
 e-Mail for Support: tenminutesapp@gmail.com
 
