@@ -1,6 +1,8 @@
 # TenMinutesApp
 
- İngilizce - Türkçe En Yaygın 5000 Kelimeyi Barındıran Listening & Writing Quiz Seçeneğiyle "Ten Minutes App" çok yakında AppStore'da... 
+ İngilizce - Türkçe En Yaygın 5000 Kelimeyi Barındıran Listening & Writing Quiz Seçeneğiyle "Ten Minutes App" artık AppStore'da... 
+ 
+ Not: Şuan için iOS 16'yı destekleyen Ten Minutes, iOS 15 (iPhone 6s/SE/7/8) sürüm desteği versiyon 1.1 ile çok yakında!
 
 <img width="993" alt="Ekran Resmi 2023-10-16 01 36 43" src="https://github.com/beratridvanasilturk/TenMinutesApp/assets/99040236/e935a0c7-964e-4484-8ab6-98e81f814bd0">
 
